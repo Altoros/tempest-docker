@@ -1,4 +1,3 @@
-
 =======
 # Acceptance tests for OpenStack
 
